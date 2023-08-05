@@ -3,6 +3,8 @@
     - Domain (You can buy from namecheap)
 1. Infrastructure
     - Nginx ⚡
+    - Postgre SQL HA ⚡
+    - Keycloak ⚡
 
 # How to use
 1. Run 
