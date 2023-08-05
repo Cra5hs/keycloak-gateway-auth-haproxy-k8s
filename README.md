@@ -13,5 +13,8 @@
 ```
 2. Point A Record from Domain to LoadBalancerIP generate from Kubernetes (NGINX Ingress)
 3. Import ./keycloak/hotel-realm.json to keycloak (Keycloak -> Realm -> Create realm -> import file)
-  
-![sisox](https://github.com/Cra5hs/stock-trading-infra/assets/5536388/6adc8d32-d762-42ca-8341-ba151d5e517d)
+
+# Architecture
+
+![sisox](https://github.com/Cra5hs/keycloak-gateway-auth/assets/5536388/dcf2df46-4ca9-466f-bbba-8177004e4f33)
+
