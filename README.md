@@ -16,5 +16,4 @@
 
 # Architecture
 
-![sisox](https://github.com/Cra5hs/keycloak-gateway-auth/assets/5536388/dcf2df46-4ca9-466f-bbba-8177004e4f33)
-
+![sisox (1)](https://github.com/Cra5hs/keycloak-gateway-auth/assets/5536388/7f25d924-2f12-4077-b006-0a7f7f4b55aa)
